@@ -3,7 +3,7 @@
 This repository contains my solution codes to all exercises of [Python](https://www.kaggle.com/learn/python) course by Kaggle.
 
 <br>
-Hello, Python
+
 | Lesson |  Exercises |
 | --- | --- |
 | Hello, Python | [ipynb](https://github.com/andreyyohanes/Kaggle-Python/blob/main/01%20Hello%2C%20Python/Syntax%2C%20Variables%2C%20and%20Numbers.ipynb) |
