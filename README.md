@@ -10,6 +10,6 @@ This repository contains my solution codes to all exercises of [Python](https://
 | Functions and Getting Help | [ipynb](https://github.com/andreyyohanes/Kaggle-Python/blob/main/02%20Functions%20and%20Getting%20Help/Functions%20and%20Getting%20Help.ipynb) |
 | Booleans and Conditionals | [ipynb](https://github.com/andreyyohanes/Kaggle-Python/blob/main/03%20Booleans%20and%20Conditionals/Booleans%20and%20Conditionals.ipynb) |
 | Lists | [ipynb](https://github.com/andreyyohanes/Kaggle-Python/blob/main/04%20Lists/Lists.ipynb) |
-| Loops and List Comprehensions | soon |
+| Loops and List Comprehensions | [ipynb](https://github.com/andreyyohanes/Kaggle-Python/blob/main/05%20Loops%20and%20List%20Comprehensions/Loops%20and%20List%20Comprehensions.ipynb) |
 | Strings and Dictionaries | soon |
 | Working with External Libraries | soon |
