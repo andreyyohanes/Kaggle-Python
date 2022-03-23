@@ -11,5 +11,5 @@ This repository contains my solution codes to all exercises of [Python](https://
 | Booleans and Conditionals | [ipynb](https://github.com/andreyyohanes/Kaggle-Python/blob/main/03%20Booleans%20and%20Conditionals/Booleans%20and%20Conditionals.ipynb) |
 | Lists | [ipynb](https://github.com/andreyyohanes/Kaggle-Python/blob/main/04%20Lists/Lists.ipynb) |
 | Loops and List Comprehensions | [ipynb](https://github.com/andreyyohanes/Kaggle-Python/blob/main/05%20Loops%20and%20List%20Comprehensions/Loops%20and%20List%20Comprehensions.ipynb) |
-| Strings and Dictionaries | soon |
+| Strings and Dictionaries | [ipynb](https://github.com/andreyyohanes/Kaggle-Python/blob/main/06%20Strings%20and%20Dictionaries/Strings%20and%20Dictionaries.ipynb) |
 | Working with External Libraries | soon |
