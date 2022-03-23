@@ -12,4 +12,4 @@ This repository contains my solution codes to all exercises of [Python](https://
 | Lists | [ipynb](https://github.com/andreyyohanes/Kaggle-Python/blob/main/04%20Lists/Lists.ipynb) |
 | Loops and List Comprehensions | [ipynb](https://github.com/andreyyohanes/Kaggle-Python/blob/main/05%20Loops%20and%20List%20Comprehensions/Loops%20and%20List%20Comprehensions.ipynb) |
 | Strings and Dictionaries | [ipynb](https://github.com/andreyyohanes/Kaggle-Python/blob/main/06%20Strings%20and%20Dictionaries/Strings%20and%20Dictionaries.ipynb) |
-| Working with External Libraries | soon |
+| Working with External Libraries | [ipynb](https://github.com/andreyyohanes/Kaggle-Python/blob/main/07%20Working%20with%20External%20Libraries/Working%20with%20External%20Libraries.ipynb) |
